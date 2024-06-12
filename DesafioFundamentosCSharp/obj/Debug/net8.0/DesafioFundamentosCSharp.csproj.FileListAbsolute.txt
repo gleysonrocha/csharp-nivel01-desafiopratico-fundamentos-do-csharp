@@ -1,0 +1,14 @@
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\bin\Debug\net8.0\DesafioFundamentosCSharp.exe
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\bin\Debug\net8.0\DesafioFundamentosCSharp.deps.json
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\bin\Debug\net8.0\DesafioFundamentosCSharp.runtimeconfig.json
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\bin\Debug\net8.0\DesafioFundamentosCSharp.dll
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\bin\Debug\net8.0\DesafioFundamentosCSharp.pdb
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.AssemblyInfoInputs.cache
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.AssemblyInfo.cs
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.csproj.CoreCompileInputs.cache
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.dll
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\refint\DesafioFundamentosCSharp.dll
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.pdb
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\DesafioFundamentosCSharp.genruntimeconfig.cache
+F:\Dev\Estudo\Rocketseat\CSharp\Desafios\DesafioFundamentosCSharp\DesafioFundamentosCSharp\obj\Debug\net8.0\ref\DesafioFundamentosCSharp.dll
